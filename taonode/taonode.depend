@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627271375 source:c:\users\nguye\videos\captures\taonode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
