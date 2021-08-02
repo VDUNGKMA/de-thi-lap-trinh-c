@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627295328 source:c:\users\nguye\videos\captures\de 4 cau1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
